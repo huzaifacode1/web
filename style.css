@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+@media(140px){
 nav{
     padding: 30px;
     color: antiquewhite;
@@ -12,7 +13,7 @@ nav{
     position: absolute;
     width: 100%;
     justify-content: space-between;
-}
+}}
 #ADVENTURE{
     font-size: 30px;
 }
@@ -29,6 +30,7 @@ ul li{
     color: #fc036b;
     font-weight: bold;
 }
+
 header{
    height: 100vh;
    width: 100%;
@@ -130,5 +132,6 @@ margin-left: 50px;
 }
 #button2{
     margin-left: 50px;
-    }
-*@media(140px)
+    }    
+#nav *@media(40px)
+
