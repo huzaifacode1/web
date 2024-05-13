@@ -3,8 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-@media only screen and (max-width: 10px){
-nav{
+@media only screen and (max-width: 5px){
+#nav{
     padding: 30px;
     color: antiquewhite;
     top: 0;
@@ -134,7 +134,7 @@ margin-left: 50px;
 #button2{
     margin-left: 50px;
     }    
-#nav *@media(max-width:20px){
+#nav *@media(max-width:10px){
     .nav
 }
 
